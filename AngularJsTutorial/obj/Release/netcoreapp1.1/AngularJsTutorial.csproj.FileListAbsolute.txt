@@ -1,0 +1,11 @@
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\bin\Release\netcoreapp1.1\AngularJsTutorial.deps.json
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\bin\Release\netcoreapp1.1\AngularJsTutorial.runtimeconfig.json
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\bin\Release\netcoreapp1.1\AngularJsTutorial.runtimeconfig.dev.json
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\bin\Release\netcoreapp1.1\AngularJsTutorial.dll
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\bin\Release\netcoreapp1.1\AngularJsTutorial.pdb
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\obj\Release\netcoreapp1.1\AngularJsTutorial.csprojResolveAssemblyReference.cache
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\obj\Release\netcoreapp1.1\AngularJsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\obj\Release\netcoreapp1.1\AngularJsTutorial.AssemblyInfoInputs.cache
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\obj\Release\netcoreapp1.1\AngularJsTutorial.AssemblyInfo.cs
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\obj\Release\netcoreapp1.1\AngularJsTutorial.dll
+C:\Users\krilis\source\repos\AngularJsTutorial\AngularJsTutorial\obj\Release\netcoreapp1.1\AngularJsTutorial.pdb
